@@ -1,0 +1,5 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\l1_e2"
+    ]
+}
