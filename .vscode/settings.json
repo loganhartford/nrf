@@ -1,5 +1,6 @@
 {
     "nrf-connect.applications": [
-        "${workspaceFolder}\\l1_e2"
+        "${workspaceFolder}\\l1_e2",
+        "${workspaceFolder}\\l3_e1"
     ]
 }
