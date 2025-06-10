@@ -2,6 +2,9 @@
     "nrf-connect.applications": [
         "${workspaceFolder}\\l1_e2",
         "${workspaceFolder}\\l3_e1",
-        "${workspaceFolder}\\l3_e2"
+        "${workspaceFolder}\\l3_e2",
+        "${workspaceFolder}\\l4_e1",
+        "${workspaceFolder}\\l4_e2",
+        "${workspaceFolder}\\l4_e3"
     ]
 }
