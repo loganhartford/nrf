@@ -5,6 +5,13 @@
         "${workspaceFolder}\\l3_e2",
         "${workspaceFolder}\\l4_e1",
         "${workspaceFolder}\\l4_e2",
-        "${workspaceFolder}\\l4_e3"
+        "${workspaceFolder}\\l4_e3",
+        "${workspaceFolder}\\l5_e1",
+        "${workspaceFolder}\\l7_e1",
+        "${workspaceFolder}\\l7_e2",
+        "${workspaceFolder}\\l7_e3",
+        "${workspaceFolder}\\l8_e1",
+        "${workspaceFolder}\\l8_e2",
+        "${workspaceFolder}\\l6_e1"
     ]
 }
