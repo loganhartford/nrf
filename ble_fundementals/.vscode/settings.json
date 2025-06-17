@@ -1,0 +1,17 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\l2_e1",
+        "${workspaceFolder}\\l2_e2",
+        "${workspaceFolder}\\l2_e3",
+        "${workspaceFolder}\\l3_e1",
+        "${workspaceFolder}\\l3_e2",
+        "${workspaceFolder}\\l4_e1",
+        "${workspaceFolder}\\l4_e2",
+        "${workspaceFolder}\\l4_e3",
+        "${workspaceFolder}\\l5_e1",
+        "${workspaceFolder}\\l5_e2"
+    ],
+    "files.associations": {
+        "kernel.h": "c"
+    }
+}
